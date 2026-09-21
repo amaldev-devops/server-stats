@@ -18,3 +18,5 @@ chmod +x server-stats.sh
 2.Excecute
 
 ./server-stats.sh
+
+https://roadmap.sh/projects/server-stats
